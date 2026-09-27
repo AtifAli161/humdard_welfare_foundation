@@ -1,0 +1,19 @@
+body
+{
+ background-color:#6E6E6E;
+ font-family:helvetica;
+}
+
+body h3{
+ text-align:center;
+ margin-top:30px;
+ font-size:40px;
+ color:#534f8d;
+}
+
+table{
+ border-radius:5px;
+ box-shadow:10px 0px 5px 0px;
+ padding:10px;
+ background-color:#cac3c3;
+}
